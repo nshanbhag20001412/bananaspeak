@@ -16,8 +16,8 @@ body{
   background-repeat: no-repeat;
   border-image-width: 50%;
   background-position-x:right;
-  background-size: center;
-  padding: 0.5rem 0 15rem;
+  background-size:center;
+  padding: 0rem 0 10rem;
 
 }
 #btn-translate{
@@ -81,3 +81,26 @@ textarea {
     right: 16px;
     font-size: 18px;
   }
+
+  .footer{
+    background-color:#1e3a8a;
+    padding:1rem 0rem;
+    text-align: center;
+    background-size:cover;
+    color: white;
+    position:absolute;
+   bottom:0px;
+   width:100%;
+}
+.footer ul{
+    padding-inline-start: 0px;
+    
+}
+
+.link{
+
+    text-decoration: none;
+    color: white;
+    padding:0 5vh;
+}
+ 
